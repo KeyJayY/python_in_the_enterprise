@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 another random text
+=======
+random text
+>>>>>>> d298ed84937d207c28ac6bfe008c1c432330428f
